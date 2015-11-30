@@ -1,0 +1,4 @@
+{
+    "bpm": 120,
+    "length_sample": 1,
+}

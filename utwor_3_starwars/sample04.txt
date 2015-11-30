@@ -1,0 +1,30 @@
+{
+ #potêga sin(x)^power
+ "power": 1/2,
+ 
+ #przesuniecie
+ "a": 0,
+
+ #dlugosc dzwieku (default=1)
+ "long": 1,
+
+ #narastanie z up do 1 na przedziale [up_1, up_2] in [0,1]
+ "czy_up": 1,
+ "up": 0.3,
+ "up_1": 0,
+ "up_2": 0.3,
+
+ #obni¿enie z 1 do down na przedziale [down_1, down_2] in [0,1]
+ "czy_down": 1,
+ "down": 0.3,
+ "down_1": 0.7,
+ "down_2": 1,
+
+ #echo
+ "times": 1,
+ "obniz": 1,
+
+ #def funkcji (sin(x), arcsin(sin(x)) )
+ #"funkcja": "arcsin(sin(x))"
+ "funkcja": "sin(x)"
+}
